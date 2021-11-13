@@ -18,6 +18,9 @@ result_msg = driver.find_element(By.ID, 'result-stats').text
 print('I got the result here: \n\t', result_msg)
 
 # -Close the browser
-driver.close()
+#driver.close()
+
+
+
 
 
