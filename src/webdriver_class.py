@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 
-filepath = '/screenshots/'
+filepath = '../screenshots/'
 
 driver = webdriver.Chrome()
 driver.get("http://automationpractice.com/index.php")
