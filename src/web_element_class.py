@@ -99,4 +99,4 @@ def test_create_account_button(email):
 # explicit way: WebDriverWait class, expected_conditions class (Interview mostly asked)
 # mouse movements: hover over on the elements, drag and drop: ActionChain Class
 
-# Framework 2 classes: Pytest (unit testing), Page object modeling
+
