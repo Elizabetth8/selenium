@@ -90,7 +90,7 @@ def test_create_account_button(email):
     state_dropdown.select_by_index("2")
 
 
-# Click on Register
+# Click on Register 1
 
 # Agenda for next class
 # Selenium 2 more classes:
